@@ -1,2 +1,7 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Brendan Gassler
+
+#Web Apps
+1) A calendar app where the user can add certain events and the app will alert the user of upcoming events
+2)An app where the user can store relevant documents and look them over while being able to add notes to each document
+3)A blogging app where the user can write and title new blog posts that are labled with the date and time
